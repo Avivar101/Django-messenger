@@ -6,4 +6,9 @@ ChatApp built with Django, django-channels, Websockets
 
 The first version of the chatapp
 
-![](https://github.com/Avivar101/Django-messenger/blob/main/media/messenger_app_v1.gif)
+![django-messenger preview](https://github.com/Avivar101/Django-messenger/blob/main/media/messenger_app_v1.gif)
+
+## Todo
+
+* [ ] rooms for different chats
+* [ ] load users
